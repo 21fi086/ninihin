@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello 大傻逼
+      你好，打工人 こんにちは、バイト戦士
     </section>
   </body>
 </html>
